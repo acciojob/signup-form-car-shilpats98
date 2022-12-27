@@ -1,2 +1,14 @@
 
-/* Your CSS Code here. */
+form  input {
+    margin-top: 20px;
+   
+   
+}
+
+ form h1{
+    text-align: center;
+}
+
+form button{
+    margin-top: 50px;
+}
